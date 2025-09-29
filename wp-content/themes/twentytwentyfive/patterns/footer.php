@@ -11,6 +11,10 @@
  * @since Twenty Twenty-Five 1.0
  */
 
+// <--- INSERT YOUR TEST MESSAGE HERE --->
+echo "<h2 style='color: green; text-align: center;'>*** DEPLOYED VIA GITHUB ACTIONS CI/CD PIPELINE ***</h2>";
+// <--- END TEST MESSAGE --->
+
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--50)">
